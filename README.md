@@ -1,4 +1,4 @@
-test-repo
+DS-repo
 =========
 
-this is a test repo
+Data Structures Course - Assignments and Codes
