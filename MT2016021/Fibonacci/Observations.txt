@@ -1,0 +1,24 @@
+1. Using decimal :
+	d = 10^5; n = 10^d 
+		Time : 159 seconds
+
+2. Using Binary : 
+	d = 8*10^6; n = 10^d
+		Time : < 1 second
+
+3. Decimal converted to Binary
+	d = 10^5; n = 10^d
+		Time : ~160 seconds
+
+	d = 10^6; n = 10^d
+		Time : ~ 5 hours
+
+4. Decimal modified
+	d = 8*10^6; n = 10^d
+		Time : ~ 2 seconds
+
+5. Periodic sequence
+	d = 10^6; m = 10^4
+		Time : 1.25 seconds
+	d = 10^6; m = 10^5
+		Time : 127 seconds

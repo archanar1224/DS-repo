@@ -1,0 +1,15 @@
+1. n = 10^7; k = 10^4
+	a. Heap	:	Time : < 1 second
+	b. Median:	Time : < 1 second
+	c. Random:	Time : < 1 second
+
+2. n = 10^8; k = 10^4
+	a. Heap	:	Time : ~ 10 seconds
+	b. Median:	Time : ~ 10 seconds
+	c. Random:	Time : ~ 1 second
+
+3. n = 10^9; k = 10^4
+	a. Heap	:	Time : ~ 1min 50 seconds
+	b. Median:	Time : ~ 10 seconds
+	c. Random:	Time : ~ 1 second
+
